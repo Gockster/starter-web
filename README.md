@@ -5,10 +5,11 @@ how to use Git and Gihub together.
 
 ## VOUALA
 
+Now i do a magic like Coperfield
 
 ## LALALAND THESSALONIKI
 
-This repository is for showing how Git and GitHub work
+Mpougatsa me thalassa
 
 ## Purpose
 
