@@ -1,6 +1,10 @@
 # Starter Web Repo
 
-# VOUALA
+This is a simple website project for showing
+how to use Git and Gihub together.
+
+## VOUALA
+
 
 ## LALALAND THESSALONIKI
 
