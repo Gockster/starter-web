@@ -1,8 +1,8 @@
 # Starter Web Repo
 
-#VOUALA
+# VOUALA
 
-#LALALAND THESSALONIKI
+## LALALAND THESSALONIKI
 
 This repository is for showing how Git and GitHub work
 
