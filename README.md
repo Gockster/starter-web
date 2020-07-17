@@ -14,3 +14,11 @@ Mpougatsa me thalassa
 ## Purpose
 
 Sample website with plenty of files for demos
+
+## Not purpose
+
+oti na nai
+
+## Athens by night
+
+Souvlakia
