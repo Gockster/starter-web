@@ -17,5 +17,5 @@ Please fork this repository and then issue pull requests for review.
 
 ## Copyright
 
-copyright 2020
+copyright 2020, all rights reserved.
 
