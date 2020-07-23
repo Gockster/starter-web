@@ -1,12 +1,12 @@
 # Starter Web Repo
 
 This is a simple website project for showing
-how to use Git and Gihub together. Adding a line for rebasing example, then more changes from myfeature branch too.
+how to use Git and Gihub together. Updating for emergency fix after slashing
 
 ## Purpose
 
 Sample website with plenty of files for demos
-
+ 
 ## Athens by night
 
 Souvlakia kai pizza
